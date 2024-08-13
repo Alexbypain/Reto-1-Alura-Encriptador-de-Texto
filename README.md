@@ -17,6 +17,7 @@ Lógica de Programación:
 📚 Aprendizaje y Desarrollo:
 
 Este proyecto me ha permitido poner en práctica los conceptos aprendidos en los siguientes cursos:
+
  *2 cursos de Lógica de Programación: Fortalecimiento del pensamiento algorítmico y la resolución de problemas.
  *4 cursos de HTML y CSS: Dominio de las herramientas de diseño web para crear una interfaz elegante y accesible.
  *Curso de GitHub: Comprensión profunda del control de versiones y la colaboración en proyectos de desarrollo.
