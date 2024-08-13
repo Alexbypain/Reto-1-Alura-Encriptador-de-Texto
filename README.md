@@ -18,26 +18,26 @@ Lógica de Programación:
 
 Este proyecto me ha permitido poner en práctica los conceptos aprendidos en los siguientes cursos:
 
-   *2 cursos de Lógica de Programación: Fortalecimiento del pensamiento algorítmico y la resolución de problemas.
-   *4 cursos de HTML y CSS: Dominio de las herramientas de diseño web para crear una interfaz elegante y accesible.
-   *Curso de GitHub: Comprensión profunda del control de versiones y la colaboración en proyectos de desarrollo. 
-   *Curso de ChatGPT: Exploración de la inteligencia artificial para mejorar la eficiencia y creatividad en el desarrollo de software.
+*2 cursos de Lógica de Programación: Fortalecimiento del pensamiento algorítmico y la resolución de problemas.
+*4 cursos de HTML y CSS: Dominio de las herramientas de diseño web para crear una interfaz elegante y accesible.
+*Curso de GitHub: Comprensión profunda del control de versiones y la colaboración en proyectos de desarrollo. 
+*Curso de ChatGPT: Exploración de la inteligencia artificial para mejorar la eficiencia y creatividad en el desarrollo de software.
 
 🌟 Lo que aprendí:
 
 Trabajar en este proyecto me ha permitido:
 
-   *Afianzar habilidades técnicas: Mejorando mi capacidad para desarrollar software robusto y eficiente.
-   *Desarrollar una interfaz adaptable: Aprendí a crear diseños responsivos que se ven y funcionan bien en cualquier dispositivo.
-   *Mejorar la gestión de proyectos: A través del uso de GitHub, he aprendido a manejar versiones de código y colaborar efectivamente en 
-    proyectos de software.
+*Afianzar habilidades técnicas: Mejorando mi capacidad para desarrollar software robusto y eficiente.
+*Desarrollar una interfaz adaptable: Aprendí a crear diseños responsivos que se ven y funcionan bien en cualquier dispositivo.
+*Mejorar la gestión de proyectos: A través del uso de GitHub, he aprendido a manejar versiones de código y colaborar efectivamente en 
+ proyectos de software.
 
 🛠️ Tecnologías Utilizadas:
 
-   *HTML5: Estructuración semántica de la aplicación web.
-   *CSS3: Estilización avanzada para una interfaz de usuario atractiva y adaptativa.
-   *JavaScript: Implementación de la lógica de encriptación y desencriptación.
-   *GitHub: Control de versiones y colaboración en el proyecto.
+*HTML5: Estructuración semántica de la aplicación web.
+*CSS3: Estilización avanzada para una interfaz de usuario atractiva y adaptativa.
+*JavaScript: Implementación de la lógica de encriptación y desencriptación.
+*GitHub: Control de versiones y colaboración en el proyecto.
 
 🌐 Acceso al Proyecto:
 
